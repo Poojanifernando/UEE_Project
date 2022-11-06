@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214449965940",
+    "project_id": "fitnesspal-d4fa8",
+    "storage_bucket": "fitnesspal-d4fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214449965940:android:e3de7567729d52b5d37a21",
+        "android_client_info": {
+          "package_name": "com.example.fitnesspal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214449965940-v19kf03osbljd0cqk1hs1v48ijgn5qnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHwSdRavHziP8kX1yuuSVh4P1ylOEs90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214449965940-v19kf03osbljd0cqk1hs1v48ijgn5qnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
