@@ -1,3 +1,53 @@
 <resources>
     <string name="app_name">FitnessPal</string>
+
+    <!-- sandeepa -->
+    <string name="exercise_sch">Exercise Schedule</string>
+    <string name="weight_label">Weight(kg)</string>
+    <string name="height_label">Height(cm)</string>
+    <string name="body_type_label">Body Type</string>
+    <string name="weight_sample">55kg</string>
+    <string name="height_sample">160cm</string>
+    <string name="body_type_sample">slim</string>
+    <string name="get_schedule">Get Schedule</string>
+
+    <string name="select_sch">Select Schedule</string>
+    <string name="add_sch">Add Schedule</string>
+    <string name="back_sch">Back</string>
+    <string name="no_sch">No Matching Schedule</string>
+
+    <string name="sample_day">Day 1</string>
+    <string name="sample_push">10 push ups</string>
+    <string name="sample_squat">20 squats</string>
+    <string name="sample_bridge">1 minute glute bridge</string>
+    <string name="sample_press">10 weighted dumbell press</string>
+
+
+    <string name="view_sch">View Schedule</string>
+    <string name="your_sch">Your Schedule</string>
+    <string name="remove_sch">Remove Schedule</string>
+    <string name="edit_sch">Edit</string>
+
+    <string name="sample_day_number">Day</string>
+    <string name="sample_push_number">10</string>
+    <string name="sample_squat_number">20</string>
+    <string name="sample_bridge_number">1</string>
+    <string name="sample_press_number">10</string>
+
+    <string name="sample_day_title">1</string>
+    <string name="sample_push_title">push ups</string>
+    <string name="sample_squat_title">squats</string>
+    <string name="sample_bridge_title">minute glute bridge</string>
+    <string name="sample_press_title">weighted dumbell press</string>
+
+
+    <string name="edit_sch_btn_cancel">Cancel</string>
+    <string name="edit_sch_btn_update">Update</string>
+
+    <string-array name="bodyType">
+        <item>Slim</item>
+        <item>Normal</item>
+        <item>Fat</item>
+    </string-array>
+
 </resources>
